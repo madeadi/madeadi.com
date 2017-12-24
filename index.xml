@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Madeadi</title>
-    <link>https://madeadi.com/</link>
+    <link>https://madeadi.github.io/madeadi.com/</link>
     <description>Recent content on Madeadi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://madeadi.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://madeadi.github.io/madeadi.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About this Theme</title>
-      <link>https://madeadi.com/about/</link>
+      <link>https://madeadi.github.io/madeadi.com/about/</link>
       <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://madeadi.com/about/</guid>
+      <guid>https://madeadi.github.io/madeadi.com/about/</guid>
       <description>This site contains my thoughts&amp;hellip;</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://madeadi.com/posts/my-first-post/</link>
+      <link>https://madeadi.github.io/madeadi.com/posts/my-first-post/</link>
       <pubDate>Sat, 23 Dec 2017 01:28:42 +0800</pubDate>
       
-      <guid>https://madeadi.com/posts/my-first-post/</guid>
+      <guid>https://madeadi.github.io/madeadi.com/posts/my-first-post/</guid>
       <description>This is my first post</description>
     </item>
     
